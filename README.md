@@ -3,7 +3,7 @@
 "IT Specialist for Application Development"
 
 - 1st year of apprenticeship
-- currently learning
+- currently learning:
   - Csharp
   - SQL
   - HTML & CSS
