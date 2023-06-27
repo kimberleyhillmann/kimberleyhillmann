@@ -3,5 +3,7 @@
 "IT Specialist for Application Development"
 
 - 1st year of apprenticeship
-- currently learning Csharp, SQL, HTML & CSS
-- located in (DE) Stuttgart & Berlin
+- currently learning
+  - Csharp
+  - SQL
+  - HTML & CSS
