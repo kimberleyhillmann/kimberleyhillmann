@@ -7,3 +7,4 @@
   - Csharp
   - SQL
   - HTML & CSS
+  - Angular
