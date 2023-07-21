@@ -12,4 +12,4 @@
   - development environment --> Visual Studio Code, Visual Studio, WebStorm
   - version control --> Git, GitHub, GitLab
   - project management --> Scrum
-  - languages --> 🇩🇪 , 🇬🇧 / 🇺🇸 , 🇫🇷
+  - languages --> :de:, :gb:/ 🇺🇸 , 🇫🇷
