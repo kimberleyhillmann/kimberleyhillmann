@@ -3,3 +3,9 @@
 "IT Specialist for Application Development"
 
 - 1st year of apprenticeship
+- currently learning:
+  - Csharp
+  - HTML
+  - CSS
+  - JavaScript
+  - SQL
