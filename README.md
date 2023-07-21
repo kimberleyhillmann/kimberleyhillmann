@@ -4,14 +4,13 @@
 
 - 1st year of apprenticeship
 - some knowledge about:
-  - web development --> HTML, CSS, JavaScript
   - programming languages --> C#
+  - web development --> HTML, CSS, JavaScript
   - frontend --> WPF, XAML, Forms
   - database --> SQL, MySQL/MariaDB, PostgreSQL
-  - version control --> Git, GitHub, GitLab
-  - hardware --> Raspberry Pi
   - lml --> Markdown
   - backend-framework --> .NET
   - development environment --> Visual Studio Code, Visual Studio, WebStorm
-  - project- & product management --> Scrum
+  - version control --> Git, GitHub, GitLab
+  - project management --> Scrum
   - languages --> german, english
