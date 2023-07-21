@@ -1,8 +1,7 @@
 # Hi there it's me Kim
 
-"IT Specialist for Application Development"
+## "IT Specialist for Application Development" - 1st year of apprenticeship
 
-- 1st year of apprenticeship
 - some knowledge about:
   - programming languages --> C#
   - web development --> HTML, CSS, JavaScript
