@@ -20,7 +20,7 @@
   - database management system --> MySQL/MariaDB, PostgreSQL
   - backend-framework --> .NET
 
-#### environments:
+#### environment:
 
   - development environment --> Visual Studio Code, Visual Studio, WebStorm
 
