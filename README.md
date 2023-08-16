@@ -5,19 +5,19 @@
 ### some knowledge about:
 
 #### text:
-  - lml --> Markdown
+  -  Markdown
 
 #### frontend:
 
-  - web development --> HTML, CSS, JavaScript, Stencil.js, D3.js
-  - frontend --> XAML
+  - frontend-language --> XAML, HTML, CSS, JavaScript, Stencil.js, D3.js
   - frontend-framework --> Angular
   - gui-framework --> WPF, WinForms
 
 #### backend:
 
-  - programming languages --> C#
-  - database --> SQL, MySQL/MariaDB, PostgreSQL
+  - programming language --> C#
+  - database language --> SQL,
+  - database management system --> MySQL/MariaDB, PostgreSQL
   - backend-framework --> .NET
 
 #### environments:
@@ -26,9 +26,9 @@
 
 #### management:
 
-  - version control --> Git, GitHub, GitLab
+  - version control --> GitHub, GitLab
   - project management --> Scrum
 
 #### other:
 
-  - languages --> german, english, french
+  - language --> german, english, french
