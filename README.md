@@ -9,7 +9,7 @@
 
 #### frontend:
 
-  - frontend-language --> XAML, HTML, CSS, JavaScript, Stencil.js, D3.js
+  - frontend-language --> XAML, HTML, CSS, JavaScript (+ Stencil.js, + D3.js)
   - frontend-framework --> Angular
   - gui-framework --> WPF, WinForms
 
