@@ -4,8 +4,8 @@
 
 - some knowledge about:
   - programming languages --> C#
-  - web development --> HTML, CSS, JavaScript
-  - frontend --> WPF, XAML, Forms
+  - web development --> HTML, CSS, JavaScript, Stencil.js, D3.js
+  - frontend --> WPF, XAML, Forms, Angular
   - database --> SQL, MySQL/MariaDB, PostgreSQL
   - lml --> Markdown
   - backend-framework --> .NET
