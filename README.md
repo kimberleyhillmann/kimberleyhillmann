@@ -2,14 +2,23 @@
 
 ## "IT Specialist for Application Development" - 1st year of apprenticeship
 
-- some knowledge about:
-  - programming languages --> C#
-  - web development --> HTML, CSS, JavaScript, Stencil.js, D3.js
-  - frontend --> WPF, XAML, Forms, Angular
-  - database --> SQL, MySQL/MariaDB, PostgreSQL
+### some knowledge about:
+
+#### text:
   - lml --> Markdown
+  - web development --> HTML, CSS, JavaScript, Stencil.js, D3.js
+  - frontend --> WPF, XAML, Forms
+  - frontend-framework --> Angular
+  - programming languages --> C#
+  - database --> SQL, MySQL/MariaDB, PostgreSQL
   - backend-framework --> .NET
   - development environment --> Visual Studio Code, Visual Studio, WebStorm
+
+#### management:
+
   - version control --> Git, GitHub, GitLab
   - project management --> Scrum
+
+#### other:
+
   - languages --> german, english, french
