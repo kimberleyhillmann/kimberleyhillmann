@@ -16,18 +16,15 @@
 #### backend:
 
   - programming language --> C#
-  - database language --> SQL,
-  - database management system --> MySQL/MariaDB, PostgreSQL
+  - database language --> SQL
   - backend-framework --> .NET
-
-#### environment:
-
-  - development environment --> Visual Studio Code, Visual Studio, WebStorm
 
 #### management:
 
-  - version control --> GitHub, GitLab
-  - project management --> Scrum
+  - development environment --> Visual Studio Code, Visual Studio, WebStorm
+  - version control system --> GitHub, GitLab
+  - database management system --> MySQL/MariaDB, PostgreSQL
+  - project management system --> Scrum
 
 #### other:
 
