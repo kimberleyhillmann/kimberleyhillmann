@@ -10,8 +10,9 @@
 #### frontend:
 
   - web development --> HTML, CSS, JavaScript, Stencil.js, D3.js
-  - frontend --> WPF, XAML, Forms
+  - frontend --> XAML
   - frontend-framework --> Angular
+  - gui-framework --> WPF, WinForms
 
 #### backend:
 
