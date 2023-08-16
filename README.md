@@ -6,12 +6,21 @@
 
 #### text:
   - lml --> Markdown
+
+#### frontend:
+
   - web development --> HTML, CSS, JavaScript, Stencil.js, D3.js
   - frontend --> WPF, XAML, Forms
   - frontend-framework --> Angular
+
+#### backend:
+
   - programming languages --> C#
   - database --> SQL, MySQL/MariaDB, PostgreSQL
   - backend-framework --> .NET
+
+#### environments:
+
   - development environment --> Visual Studio Code, Visual Studio, WebStorm
 
 #### management:
