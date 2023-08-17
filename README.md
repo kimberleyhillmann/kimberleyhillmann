@@ -38,5 +38,3 @@
 #### other:
 
   - language --> german, english, french
-
-***
