@@ -23,6 +23,8 @@
   - database language --> SQL
   - backend-framework --> .NET
 
+***
+
 #### environment & management:
 
   - development environment --> Visual Studio Code, Visual Studio, WebStorm
@@ -30,6 +32,10 @@
   - database management system --> MySQL/MariaDB, PostgreSQL
   - project management system --> Scrum
 
+***
+
 #### other:
 
   - language --> german, english, french
+
+***
