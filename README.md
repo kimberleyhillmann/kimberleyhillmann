@@ -1,40 +1,40 @@
-# **Hi there it's me Kim**
+# Hi there it's me Kim
 
-## "IT Specialist for Application Development" - 1st year of apprenticeship
+## ***"IT Specialist for Application Development"*** - 1st year of apprenticeship
 
-### some knowledge about:
+### some knowledge about
 
-#### text:
+#### text
 
-  -  Markdown
+- Markdown
 
-***
+---
 
-#### frontend:
+#### frontend
 
-  - frontend-language --> XAML, HTML, CSS, JavaScript (+ Stencil.js, + D3.js)
-  - frontend-framework --> Angular
-  - gui-framework --> WPF, WinForms
+- frontend-language --> XAML, HTML, CSS, JavaScript (+ Stencil.js, + D3.js)
+- frontend-framework --> Angular
+- gui-framework --> WPF, WinForms
 
-***
+---
 
-#### backend:
+#### backend
 
-  - programming language --> C#
-  - database language --> SQL
-  - backend-framework --> .NET
+- programming language --> C#
+- database language --> SQL
+- backend-framework --> .NET
 
-***
+---
 
-#### environment & management:
+#### environment & management
 
-  - development environment --> Visual Studio Code, Visual Studio, WebStorm
-  - version control system --> GitHub, GitLab
-  - database management system --> MySQL/MariaDB, PostgreSQL
-  - project management system --> Scrum
+- development environment --> Visual Studio Code, Visual Studio, WebStorm
+- version control system --> GitHub, GitLab
+- database management system --> MySQL/MariaDB, PostgreSQL
+- project management system --> Scrum
 
-***
+---
 
-#### other:
+#### other
 
-  - language --> german, english, french
+- language --> german, english, french
