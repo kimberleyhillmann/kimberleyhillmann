@@ -4,8 +4,6 @@
 
 ### some knowledge about
 
-👩‍💻 👥 
-
 #### ✔️ text 📄
 
 - Markdown
