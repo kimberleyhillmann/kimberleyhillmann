@@ -19,7 +19,7 @@
   - database language --> SQL
   - backend-framework --> .NET
 
-#### management:
+#### environment & management:
 
   - development environment --> Visual Studio Code, Visual Studio, WebStorm
   - version control system --> GitHub, GitLab
