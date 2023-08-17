@@ -4,13 +4,13 @@
 
 ### some knowledge about
 
-#### ✔️ text 📄
+#### ✔️ text
 
 - Markdown
 
 ---
 
-#### ✔️ frontend ⭐
+#### ✔️ frontend
 
 - frontend-language --> XAML, HTML, CSS, JavaScript (+ Stencil.js, + D3.js)
 - frontend-framework --> Angular
@@ -18,7 +18,7 @@
 
 ---
 
-#### ✔️ backend ⭐
+#### ✔️ backend
 
 - programming language --> C#
 - database language --> SQL
@@ -26,7 +26,7 @@
 
 ---
 
-#### ✔️ environment 💻 & management 📅
+#### ✔️ environment & management
 
 - development environment --> Visual Studio Code, Visual Studio, WebStorm
 - version control system --> GitHub, GitLab
@@ -35,6 +35,6 @@
 
 ---
 
-#### ✔️ other 📚
+#### ✔️ other
 
 - language --> german, english, french
