@@ -1,6 +1,6 @@
 # Hi there it's me Kim
 
-## ***"IT Specialist for Application Development"*** - 1st year of apprenticeship
+## ***"IT Specialist for Application Development"*** - 2nd year of apprenticeship
 
 ### some knowledge about
 
