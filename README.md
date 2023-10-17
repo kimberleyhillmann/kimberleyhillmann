@@ -29,7 +29,7 @@
 #### ✔️ environment & management
 
 - development environment --> Visual Studio Code, Visual Studio, WebStorm
-- api platform --> postman
+- api platform --> Postman
 - version control system --> GitHub, GitLab
 - database management system --> MySQL/MariaDB, PostgreSQL
 - project management system --> Scrum
