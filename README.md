@@ -38,4 +38,4 @@
 
 #### ✔️ other
 
-- language --> german, english, french
+- language --> german, english (B1), french (A1)
