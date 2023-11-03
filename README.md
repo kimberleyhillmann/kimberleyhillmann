@@ -38,6 +38,7 @@
 
 #### ✔️ other
 
+- microsoft office ➖ Access, Excel, Forms, OneDrive, OneNote, Outlook, PowerPoint, SharePoint, Teams, Word, Yammer
 - language ➖ german (C2), english (B1), french (A1)
 
 ---
