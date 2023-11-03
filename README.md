@@ -45,9 +45,14 @@
 
 ### certificates & graduations
 
-- ECDL
+#### ✔️ school
+
 - intermediate secondary school-leaving certificate (Mittlere Reife)
 - advanced secondary school-leaving certificate (Allgemeine Hochschulreife)
+
+#### ✔️ other
+
+- ECDL
 
 ---
 
