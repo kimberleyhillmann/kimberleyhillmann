@@ -46,3 +46,4 @@
 
 - React
 - LaTeX
+- Python
