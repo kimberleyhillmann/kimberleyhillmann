@@ -2,7 +2,7 @@
 
 ## ***"IT Specialist for Application Development"*** - 2nd year of apprenticeship
 
-### some knowledge about
+### some knowledge about 📚
 
 #### ✔️ text
 
@@ -48,12 +48,12 @@
 
 ---
 
-### currently learning / working on 📚📖
+### currently learning / working on 📖
 
 - Angular
 - english (B2)
 
-### in planning 📚📘
+### in planning 📘
 
 - React
 - LaTeX
