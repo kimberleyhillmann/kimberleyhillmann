@@ -12,15 +12,15 @@
 
 #### ✔️ frontend
 
-- frontend-language --> XAML, HTML, CSS, JavaScript (+ StencilJS, + RxJS + D3JS)
-- frontend-framework --> Angular
-- gui-framework --> WPF, WinForms, Qt
+- frontend language --> XAML, HTML, CSS, JavaScript (+ StencilJS, + RxJS + D3JS)
+- frontend framework --> Angular
+- gui framework --> WPF, WinForms, Qt
 
 ---
 
 #### ✔️ backend
 
-- programming language --> C#
+- backend language --> C#
 - database language --> SQL
 - backend-framework --> .NET
 
