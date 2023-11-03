@@ -43,14 +43,14 @@
 
 ---
 
-### certificates & graduations
+### graduations & certificates
 
-#### ✔️ school
+#### ✔️ graduation
 
-- intermediate secondary school-leaving certificate (Mittlere Reife)
 - advanced secondary school-leaving certificate (Allgemeine Hochschulreife)
+- intermediate secondary school-leaving certificate (Mittlere Reife)
 
-#### ✔️ other
+#### ✔️ certificates
 
 - ECDL
 
