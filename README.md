@@ -30,7 +30,7 @@
 
 - development environment --> Visual Studio Code, Visual Studio, WebStorm
 - api platform --> Postman
-- version control system --> GitHub, GitLab
+- version control system --> GitHub, GitLab, Azure DevOps
 - database management system --> MySQL/MariaDB, PostgreSQL
 - project management system --> Scrum
 
