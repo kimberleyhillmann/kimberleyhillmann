@@ -8,23 +8,17 @@
 
 - Markdown
 
----
-
 #### ✔️ frontend
 
 - frontend language ➖ XAML, HTML, CSS, JavaScript (+ StencilJS, + RxJS + D3JS)
 - frontend framework ➖ Angular
 - gui framework ➖ WPF, WinForms, Qt
 
----
-
 #### ✔️ backend
 
 - backend language ➖ C#
 - database language ➖ SQL
 - backend-framework ➖ .NET
-
----
 
 #### ✔️ environment & management
 
@@ -33,8 +27,6 @@
 - version control system ➖ GitHub, GitLab, Azure DevOps
 - database management system ➖ MySQL/MariaDB, PostgreSQL
 - project management system ➖ Scrum
-
----
 
 #### ✔️ other
 
@@ -55,6 +47,11 @@
 - ECDL
 
 ---
+
+### currently learning / working on 📚
+
+- Angular
+- english (B2)
 
 ### in planning 📚
 
