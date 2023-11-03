@@ -43,6 +43,12 @@
 
 ---
 
+### certificates
+
+- ECDL
+
+---
+
 ### in planning 📚
 
 - React
