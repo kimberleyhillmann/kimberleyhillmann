@@ -48,12 +48,12 @@
 
 ---
 
-### currently learning / working on 📚
+### currently learning / working on 📚📖
 
 - Angular
 - english (B2)
 
-### in planning 📚
+### in planning 📚📘
 
 - React
 - LaTeX
