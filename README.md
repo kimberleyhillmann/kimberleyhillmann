@@ -12,33 +12,33 @@
 
 #### ✔️ frontend
 
-- frontend language --> XAML, HTML, CSS, JavaScript (+ StencilJS, + RxJS + D3JS)
-- frontend framework --> Angular
-- gui framework --> WPF, WinForms, Qt
+- frontend language ➖ XAML, HTML, CSS, JavaScript (+ StencilJS, + RxJS + D3JS)
+- frontend framework ➖ Angular
+- gui framework ➖ WPF, WinForms, Qt
 
 ---
 
 #### ✔️ backend
 
-- backend language --> C#
-- database language --> SQL
-- backend-framework --> .NET
+- backend language ➖ C#
+- database language ➖ SQL
+- backend-framework ➖ .NET
 
 ---
 
 #### ✔️ environment & management
 
-- development environment --> Visual Studio Code, Visual Studio, WebStorm
-- api platform --> Postman
-- version control system --> GitHub, GitLab, Azure DevOps
-- database management system --> MySQL/MariaDB, PostgreSQL
-- project management system --> Scrum
+- development environment ➖ Visual Studio Code, Visual Studio, WebStorm
+- api platform ➖ Postman
+- version control system ➖ GitHub, GitLab, Azure DevOps
+- database management system ➖ MySQL/MariaDB, PostgreSQL
+- project management system ➖ Scrum
 
 ---
 
 #### ✔️ other
 
-- language --> german (C2), english (B1), french (A1)
+- language ➖ german (C2), english (B1), french (A1)
 
 ---
 
