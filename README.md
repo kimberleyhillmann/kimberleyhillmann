@@ -42,7 +42,7 @@
 
 ---
 
-### in planning
+### in planning 📚
 
 - React
 - LaTeX
