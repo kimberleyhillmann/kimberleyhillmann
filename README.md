@@ -35,7 +35,7 @@
 
 ---
 
-### graduations & certificates
+### graduations & certificates 📃
 
 #### ✔️ graduations
 
