@@ -58,3 +58,9 @@
 - React
 - LaTeX
 - Python
+
+---
+
+### about me 🙋
+
+-
