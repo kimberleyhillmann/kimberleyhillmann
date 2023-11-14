@@ -2,7 +2,7 @@
 
 ## ***"IT Specialist for Application Development"*** - 2nd year of apprenticeship
 
-### some knowledge about 📘
+### have knowledge about 📘
 
 #### ✔️ text
 
