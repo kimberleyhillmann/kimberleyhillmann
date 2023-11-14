@@ -49,7 +49,7 @@
 ---
 ### want knowledge about 📖
 
-#### ✔️ currently learning / working on
+#### ✔️ in progress
 
 - Angular
 - english (B2)
