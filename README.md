@@ -23,9 +23,10 @@
 #### ✔️ environment & management
 
 - development environment ➖ Visual Studio Code, Visual Studio, WebStorm
-- api platform ➖ Postman
+- api management ➖ Postman
 - version control system ➖ GitHub, GitLab, Azure DevOps, Sourcetree
 - database management system ➖ MySQL/MariaDB, PostgreSQL
+- database administration ➖ phpMyAdmin
 - project management system ➖ Scrum
 
 #### ✔️ other
