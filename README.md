@@ -53,7 +53,6 @@
 #### ✔️ in progress
 
 - ZQ "KI und ML"
-- Angular
 - english (B2)
 
 #### ✔️ in planning
