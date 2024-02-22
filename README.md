@@ -52,6 +52,9 @@
 
 #### ✔️ in progress
 
+- Markdown (MDX)
+- Typescript
+- React
 - ZQ "KI und ML"
 - english (B2)
 
