@@ -52,6 +52,7 @@
 
 #### ✔️ in progress
 
+- Python
 - Markdown (MDX)
 - Typescript
 - React
@@ -60,9 +61,7 @@
 
 #### ✔️ in planning
 
-- React
 - LaTeX
-- Python
 
 ---
 
