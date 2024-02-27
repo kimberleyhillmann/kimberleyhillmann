@@ -32,7 +32,7 @@
 #### ✔️ other
 
 - microsoft office ➖ Access, Excel, Forms, OneDrive, OneNote, Outlook, PowerPoint, SharePoint, Teams, Word, Yammer
-- spoken language ➖ german (C2), english (B1-2), french (A1-2)
+- spoken language ➖ german (native language), english (B1-2), french (A1-2)
 
 ---
 
