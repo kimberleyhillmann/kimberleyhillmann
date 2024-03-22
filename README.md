@@ -6,7 +6,7 @@
 
 #### ✔️ text
 
-- Markdown
+- Markdown, MDX
 
 #### ✔️ frontend
 
