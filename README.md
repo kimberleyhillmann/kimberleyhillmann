@@ -4,13 +4,13 @@
 
 ### have knowledge about 📘
 
-#### ✔️ text
+#### ✔️ documentation
 
 - Markdown, MDX
 
 #### ✔️ frontend
 
-- frontend language ➖ XAML, HTML, CSS, Sass, JavaScript (+ StencilJS, + RxJS + D3JS)
+- frontend language ➖ XAML, HTML, CSS, Sass, TypeScript, JavaScript (+ StencilJS, + RxJS + D3JS)
 - frontend framework ➖ Angular
 - frontend tool ➖ Storybook
 - gui framework ➖ WPF, WinForms, Qt
@@ -54,9 +54,6 @@
 #### ✔️ in progress
 
 - Python
-- Markdown (MDX)
-- Typescript
-- React
 - ZQ "KI und ML"
 - english (B2)
 
