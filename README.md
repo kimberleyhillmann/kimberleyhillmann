@@ -60,6 +60,9 @@
 #### ✔️ in planning
 
 - LaTeX
+- PSM I
+- PSM II
+- PSM III
 
 ---
 
