@@ -4,9 +4,9 @@
 
 ### have knowledge about 📘
 
-#### ✔️ documentation
+#### ✔️ text
 
-- Markdown, MDX
+- documentation ➖ Markdown, MDX
 
 #### ✔️ frontend
 
