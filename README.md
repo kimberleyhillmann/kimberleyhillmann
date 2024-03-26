@@ -46,7 +46,7 @@
 
 #### ✔️ certificates
 
-- ECDL
+- ECDL (European Certificate of Digital Literacy)
 
 ---
 ### want knowledge about 📖
