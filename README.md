@@ -62,10 +62,7 @@
 - LaTeX
 - PSM I
 - PSM II
-- PSM III
 - PSPO I
-- PSPO II
-- PSPO III
 
 ---
 
