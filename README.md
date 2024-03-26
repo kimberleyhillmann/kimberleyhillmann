@@ -54,7 +54,7 @@
 #### ✔️ in progress
 
 - Python
-- ZQ "KI und ML"
+- ZQ "KI und ML" -> DQR 4
 - english (B2)
 
 #### ✔️ in planning
