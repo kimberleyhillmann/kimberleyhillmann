@@ -54,6 +54,7 @@
 #### ✔️ in progress
 
 - Python
+- Jupyther Notebooks
 - ZQ "KI und ML" -> DQR 4
 - english (B2)
 
