@@ -12,7 +12,7 @@
 
 - frontend language ➖ XAML, HTML, CSS, Sass, TypeScript (+ StencilJS), JavaScript (+ RxJS + D3JS)
 - frontend framework ➖ Angular
-- frontend tool ➖ Storybook
+- frontend styleguide ➖ Storybook
 - gui framework ➖ WPF, WinForms, Qt
 
 #### ✔️ backend
