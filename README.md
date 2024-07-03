@@ -61,7 +61,6 @@
 
 #### ✔️ in planning
 
-- LaTeX
 - PSM I
 - PSM II
 - PSPO I
