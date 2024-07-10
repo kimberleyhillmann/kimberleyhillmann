@@ -21,14 +21,20 @@
 - database language ➖ SQL
 - backend-framework ➖ .NET
 
+#### ✔️ automation
+
+- CI/CD ➖ GitLab Pipeline
+
 #### ✔️ environment & management
 
 - development environment ➖ Visual Studio Code, Visual Studio, WebStorm
+- version control system ➖ GitHub, GitLab, Azure DevOps, Sourcetree
+- knowledge environmant ➖ Confluence
+- project management system ➖ Scrum, Kanban
+- project management environment ➖ Jira
 - api management ➖ Postman
 - database management system ➖ MySQL/MariaDB, PostgreSQL
 - database administration ➖ phpMyAdmin
-- project management system ➖ Scrum
-- version control system ➖ GitHub, GitLab, Azure DevOps, Sourcetree
 
 #### ✔️ other
 
