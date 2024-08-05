@@ -64,6 +64,7 @@
 
 #### ✔️ in planning
 
+- "IHK Zusatzqualifikation KI - Berufsspezialist" (DQR 5)
 - PSM I
 - PSM II
 - PSPO I
