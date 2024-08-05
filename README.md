@@ -52,6 +52,7 @@
 
 #### ✔️ certificates
 
+- IHK Zusatzqualifikation KI (DQR 4)
 - ECDL (European Certificate of Digital Literacy)
 
 ---
@@ -59,11 +60,7 @@
 
 #### ✔️ in progress
 
-- CI/CD in GitLab (+ GitLab Runners)
 - Python
-- Jupyther Notebooks
-- ZQ "KI und ML" -> DQR 4
-- english (B2)
 
 #### ✔️ in planning
 
