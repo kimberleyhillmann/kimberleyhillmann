@@ -52,7 +52,7 @@
 
 #### ✔️ certificates
 
-- IHK Zusatzqualifikation KI (DQR 4)
+- "IHK Zusatzqualifikation KI" (DQR 4)
 - ECDL (European Certificate of Digital Literacy)
 
 ---
