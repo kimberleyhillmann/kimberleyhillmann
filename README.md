@@ -33,12 +33,12 @@
 - project management system ➖ Scrum, Kanban
 - project management environment ➖ Jira
 - api management ➖ Postman
-- database management system ➖ MySQL/MariaDB, PostgreSQL
+- database management system ➖ MySQL/MariaDB
 - database administration ➖ phpMyAdmin
 
 #### ✔️ other
 
-- microsoft office ➖ Access, Excel, Forms, OneDrive, OneNote, Outlook, PowerPoint, SharePoint, Teams, Word, Yammer
+- microsoft office ➖ Access, Excel, Forms, OneDrive, OneNote, Outlook, PowerBI PowerPoint, SharePoint, Teams, Word, Yammer
 - spoken language ➖ german (native language), english (B1-2), french (A1-2)
 
 ---
@@ -52,7 +52,7 @@
 
 #### ✔️ certificates
 
-- "IHK Zusatzqualifikation KI" (DQR 4)
+- DQR4 IHK KI Qualification (IHK Zusatzqualifikation KI)
 - ECDL (European Certificate of Digital Literacy)
 
 ---
@@ -60,11 +60,12 @@
 
 #### ✔️ in progress
 
+- PowerBI
 - Python
 
 #### ✔️ in planning
 
-- "IHK Zusatzqualifikation KI - Berufsspezialist" (DQR 5)
+- DQR5 IHK KI Qualification - Specialist (IHK Zusatzqualifikation KI - Berufsspezialist)
 - PSM I
 - PSM II
 - PSPO I
