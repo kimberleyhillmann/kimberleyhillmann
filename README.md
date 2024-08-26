@@ -4,10 +4,6 @@
 
 ### have knowledge about 📘
 
-#### ✔️ text
-
-- documentation ➖ Markdown, MDX
-
 #### ✔️ frontend
 
 - frontend language ➖ XAML, HTML, CSS, Sass, TypeScript (+ StencilJS), JavaScript (+ RxJS + D3JS)
@@ -29,7 +25,8 @@
 
 - development environment ➖ Visual Studio Code, Visual Studio, WebStorm
 - version control system ➖ GitHub, GitLab, Azure DevOps, Sourcetree
-- knowledge environmant ➖ Confluence
+- documentation ➖ Markdown, MDX
+- knowledge environment ➖ Confluence
 - project management system ➖ Scrum, Kanban
 - project management environment ➖ Jira
 - api management ➖ Postman
