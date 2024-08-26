@@ -1,6 +1,6 @@
 # Hi there it's me Kim
 
-## ***"IT Specialist for Application Development"*** - 2nd year of apprenticeship @TRUMPF
+## ***"IT Specialist for Application Development"*** - 3rd year of apprenticeship @TRUMPF
 
 ### have knowledge about 📘
 
