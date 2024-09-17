@@ -59,6 +59,7 @@
 
 - PowerBI
 - Python
+- certificate of proficiency (Facharbeiterzeugnis)
 
 #### ✔️ in planning
 
