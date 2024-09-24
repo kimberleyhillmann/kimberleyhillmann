@@ -33,9 +33,16 @@
 - database management system ➖ MySQL/MariaDB
 - database administration ➖ phpMyAdmin
 
+### ✔️ microsoft office
+
+- Dokumenterstellung ➖ Word, PowerPoint, Excel (+ PowerQuery), OneNote
+- Datenverwaltung und Analyse ➖ Access, PowerBI
+- Kommunikation und Zusammenarbeit➖ Outlook, Teams, Yammer
+- Formulare und Umfragen ➖ Forms
+- Speicher ➖ OneDrive, SharePoint
+
 #### ✔️ other
 
-- microsoft office ➖ Access, Excel (+ PowerQuery), Forms, OneDrive, OneNote, Outlook, PowerBI PowerPoint, SharePoint, Teams, Word, Yammer
 - spoken language ➖ german (native language), english (B1-2), french (A1-2)
 
 ---
