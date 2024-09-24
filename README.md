@@ -33,13 +33,13 @@
 - database management system ➖ MySQL/MariaDB
 - database administration ➖ phpMyAdmin
 
-### ✔️ microsoft office
+#### ✔️ microsoft office
 
-- Dokumenterstellung ➖ Word, PowerPoint, Excel (+ PowerQuery), OneNote
-- Datenverwaltung und Analyse ➖ Access, PowerBI
-- Kommunikation und Zusammenarbeit➖ Outlook, Teams, Yammer
-- Formulare und Umfragen ➖ Forms
-- Speicher ➖ OneDrive, SharePoint
+- dokument creation ➖ Word, PowerPoint, Excel (+ PowerQuery), OneNote
+- data management & analysis ➖ Access, PowerBI
+- communication & collaboration➖ Outlook, Teams, Yammer
+- forms & surveys ➖ Forms
+- storage ➖ OneDrive, SharePoint
 
 #### ✔️ other
 
