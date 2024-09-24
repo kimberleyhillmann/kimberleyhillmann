@@ -35,7 +35,7 @@
 
 #### ✔️ other
 
-- microsoft office ➖ Access, Excel, Forms, OneDrive, OneNote, Outlook, PowerBI PowerPoint, SharePoint, Teams, Word, Yammer
+- microsoft office ➖ Access, Excel (+ PowerQuery), Forms, OneDrive, OneNote, Outlook, PowerBI PowerPoint, SharePoint, Teams, Word, Yammer
 - spoken language ➖ german (native language), english (B1-2), french (A1-2)
 
 ---
