@@ -35,8 +35,8 @@
 
 #### ✔️ microsoft office
 
-- dokument creation ➖ Word, PowerPoint, Excel (+ PowerQuery), OneNote
-- data management & analysis ➖ Access, PowerBI
+- dokument creation ➖ Word, PowerPoint, Excel, OneNote
+- data management & analysis ➖ Access, PowerBI, PowerQuery, PowerAutomate
 - communication & collaboration➖ Outlook, Teams, Yammer
 - forms & surveys ➖ Forms
 - storage ➖ OneDrive, SharePoint
