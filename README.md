@@ -64,7 +64,7 @@
 
 #### ✔️ in progress
 
-- PowerBI
+- PowerApps
 - Python
 - certificate of proficiency (Facharbeiterzeugnis)
 
