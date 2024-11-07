@@ -65,7 +65,6 @@
 #### ✔️ in progress
 
 - PowerApps
-- Python
 - certificate of proficiency (Facharbeiterzeugnis)
 
 #### ✔️ in planning
