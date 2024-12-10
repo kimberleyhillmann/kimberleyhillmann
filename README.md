@@ -6,7 +6,7 @@
 
 #### ✔️ frontend
 
-- frontend language ➖ XAML, HTML, CSS, Sass, TypeScript (+ StencilJS), JavaScript (+ RxJS + D3JS)
+- frontend language ➖ XAML, HTML, CSS, Sass, TypeScript, JavaScript
 - frontend framework ➖ Angular
 - frontend styleguide ➖ Storybook
 - gui framework ➖ WPF, WinForms, Qt
@@ -36,9 +36,8 @@
 #### ✔️ microsoft office
 
 - dokument creation ➖ Word, PowerPoint, Excel, OneNote
-- data management & analysis ➖ Access, PowerBI, PowerQuery, PowerAutomate
-- communication & collaboration➖ Outlook, Teams, Yammer
-- forms & surveys ➖ Forms
+- data management & analysis ➖ PowerBI, PowerApps, PowerAutomate
+- communication & collaboration➖ Outlook, Teams
 - storage ➖ OneDrive, SharePoint
 
 #### ✔️ other
@@ -59,23 +58,3 @@
 - DQR4 IHK KI Qualification (IHK Zusatzqualifikation KI)
 - ECDL (European Certificate of Digital Literacy)
 
----
-### want knowledge about 📖
-
-#### ✔️ in progress
-
-- PowerApps
-- certificate of proficiency (Facharbeiterzeugnis)
-
-#### ✔️ in planning
-
-- DQR5 IHK KI Qualification - Specialist (IHK Zusatzqualifikation KI - Berufsspezialist)
-- PSM I
-- PSM II
-- PSPO I
-
----
-
-### about me 🙋
-
--
