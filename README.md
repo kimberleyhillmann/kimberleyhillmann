@@ -35,8 +35,8 @@
 
 #### ✔️ microsoft office
 
+- power platform ➖ PowerApps, PowerBI, PowerAutomate
 - dokument creation ➖ Word, PowerPoint, Excel, OneNote
-- data management & analysis ➖ PowerBI, PowerApps, PowerAutomate
 - communication & collaboration➖ Outlook, Teams
 - storage ➖ OneDrive, SharePoint
 
