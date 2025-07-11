@@ -50,7 +50,7 @@
 
 #### ✔️ graduations
 
-- certificate of proficiency (Facharbeiterbrief)
+- DQR4 certificate of proficiency (Facharbeiterbrief)
 - advanced secondary school-leaving certificate (Allgemeine Hochschulreife)
 - intermediate secondary school-leaving certificate (Mittlere Reife)
 
