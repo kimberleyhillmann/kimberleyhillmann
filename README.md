@@ -1,6 +1,6 @@
 # Hi there it's me Kim
 
-## ***"IT Specialist for Application Development"*** - 3rd year of apprenticeship @TRUMPF
+## ***"IT Specialist for Application Development"*** @TRUMPF
 
 ### have knowledge about 📘
 
@@ -50,6 +50,7 @@
 
 #### ✔️ graduations
 
+- certificate of proficiency (Facharbeiterbrief)
 - advanced secondary school-leaving certificate (Allgemeine Hochschulreife)
 - intermediate secondary school-leaving certificate (Mittlere Reife)
 
