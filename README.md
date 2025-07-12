@@ -50,7 +50,8 @@
 
 #### ✔️ graduations
 
-- DQR4 certificate of proficiency (Facharbeiterbrief)
+- DQR4 IHK certificate of proficiency (IHK Facharbeiterbrief)
+- DQR4 certificate of vocational school
 - advanced secondary school-leaving certificate (Allgemeine Hochschulreife)
 - intermediate secondary school-leaving certificate (Mittlere Reife)
 
