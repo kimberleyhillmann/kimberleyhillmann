@@ -2,7 +2,7 @@
 
 ## ***"IT Specialist for Application Development"*** @TRUMPF
 
-### have knowledge about 📘
+### my knowledge 📘
 
 #### ✔️ frontend
 
@@ -46,7 +46,7 @@
 
 ---
 
-### graduations & certificates 📃
+### my graduations & certificates 📃
 
 #### ✔️ graduations
 
