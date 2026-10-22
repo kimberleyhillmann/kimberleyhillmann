@@ -1,6 +1,6 @@
 # Hi there it's me Kim
 
-## ***"IT Specialist for Application Development"*** @TRUMPF
+## ***"IT Specialist for Application Development"***
 
 ### my knowledge 📘
 
